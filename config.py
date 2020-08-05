@@ -6,4 +6,4 @@ TOKEN = os.environ.get("BOT_TOKEN","123456:abcdefghijklmnop")
 
 
 # API key of TMDB (v3 auth)
-API_KEY= os.environ.get("API_KEY","My Api Key")
+API_KEY= os.environ.get("API_KEY","Read The Readme.md")
