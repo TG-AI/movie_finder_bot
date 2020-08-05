@@ -1,9 +1,9 @@
 '''Token of bot, TMDB API key'''
-
+import os
 
 # Token of Telegram bot
-TOKEN = ""
+TOKEN = os.environ.get("BOT_TOKEN","123456:abcdefghijklmnop")
 
 
 # API key of TMDB (v3 auth)
-API_KEY= ""
+API_KEY= os.environ.get("API_KEY","My Api Key")
