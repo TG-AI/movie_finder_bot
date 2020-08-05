@@ -6,15 +6,14 @@ A simple bot to search movies with help of TMDB.
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a><br>
 
-<h3>Hard Way☹️</h3>
-<b>Copy this commands to your console: </b>
-<i>$ git clone https://github.com/EgorSkurihin/movie_finder_bot.git<i>
-<i>$ cd movie_finder_bot</i> 
-<i>$ pip install -r requirements.txt</i>
+<h3>Hard Way☹️</h3><br>
+<b>Copy this commands to your console: </b><br>
+<i>$ git clone https://github.com/EgorSkurihin/movie_finder_bot.git<i><br>
+<i>$ cd movie_finder_bot</i> <br>
+<i>$ pip install -r requirements.txt</b><br>
 
-<h4>Variables </b>
-
+<h4>Variables (Needed For Working)</b><br>
 <b>BOT_TOKEN:</b><br>
-  <i>Get This Value From <a href="https:/telegram.dog/Botfather">Bot Father</a>
-<br><b>API_KEY:</b><br>
-<i>Get this Value From Here<a href="https://developers.themoviedb.org/3/getting-started/introduction">Here</a></i>
+  <i>Get This Value From <a href="https:/telegram.dog/Botfather">Bot Father</a></i><br><br>
+<b>API_KEY:</b><br>
+<i>Get this Value From <a href="https://developers.themoviedb.org/3/getting-started/introduction">Here</a></i>
