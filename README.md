@@ -19,6 +19,6 @@ A simple bot to search movies with help of TMDB.
 <i>Get this Value From <a href="https://developers.themoviedb.org/3/getting-started/introduction">Here</a></i>
 <br>
 <br>
-<a href="https://telegram.dog/TeamCyphers"><h3>Join Us On Telegram</h3></a>
+<h3><a href="https://telegram.dog/TeamCyphers">Join Us On Telegram</a></h3>
 <br><br>
-<h5>Credits :</h5><br> <a href="https://github.com/EgorSkurihin/">EgorSkurihin</a><br><br>
+<b>Credits :</b><br><a href="https://github.com/EgorSkurihin/">EgorSkurihin</a><br><br>
