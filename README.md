@@ -1,4 +1,4 @@
-# Movie_finder_bot
+# Movie finder bot
 A simple bot to search movies with help of TMDB.
 # Installation
 <h3>Easy Way😐</h3><br>
@@ -17,3 +17,8 @@ A simple bot to search movies with help of TMDB.
   <i>Get This Value From <a href="https:/telegram.dog/Botfather">Bot Father</a></i><br><br>
 <b>API_KEY:</b><br>
 <i>Get this Value From <a href="https://developers.themoviedb.org/3/getting-started/introduction">Here</a></i>
+<br>
+<br>
+<a href="https://telegram.dog/TeamCyphers"><h3>Join Us On Telegram</h3></a>
+<br><br>
+<h5>Credits :</h5><br> <a href="https://github.com/EgorSkurihin/">EgorSkurihin</a><br><br>
