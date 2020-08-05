@@ -7,11 +7,14 @@ A simple bot to search movies with help of TMDB.
 </a><br>
 
 <h3>Hard Way☹️</h3>
-Copy this commands to your console:  
-`$ git clone https://github.com/EgorSkurihin/movie_finder_bot.git`  
-`$ cd movie_finder_bot`  
-`$ pip install -r requirements.txt`  
+<b>Copy this commands to your console: </b>
+<i>$ git clone https://github.com/EgorSkurihin/movie_finder_bot.git<i>
+<i>$ cd movie_finder_bot</i> 
+<i>$ pip install -r requirements.txt</i>
 
-Open file *config.py* and set variables **TOKEN** and **API_KEY**.  
-**TOKEN** - Telegram Bot Token (get it [here](https://web.telegram.org/#/im?p=@BotFather));  
-**API_KEY** - TMDB API Key (get it [here](https://developers.themoviedb.org/3/getting-started/introduction)). 
+<h4>Variables </b>
+
+<b>BOT_TOKEN:</b><br>
+  <i>Get This Value From <a href="https:/telegram.dog/Botfather">Bot Father</a>
+<br><b>API_KEY:</b><br>
+<i>Get this Value From Here<a href="https://developers.themoviedb.org/3/getting-started/introduction">Here</a></i>
