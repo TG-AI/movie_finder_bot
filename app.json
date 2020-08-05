@@ -2,14 +2,16 @@
 "description": "A Bot To Find Movies",
  "repository": "https://github.com/DanielAbraham7",
  "logo": "#Noimage",
- "keywords": [ "bot", "telegram", "Daniel Abraham", "Dan", "TeamCyphers" ],
+ "keywords":
+ [ "bot", "telegram", "Daniel Abraham", "Dan", "TeamCyphers" ],
  "env": 
 { "BOT_TOKEN": 
-{ "description": "Add your own bot token. Get token from botfather",
- "value": "" },
+{
+ "description": 
+"Add your own bot token. Get token from botfather",
+ "value": "" 
+},
  "API_KEY": 
 { "description": "Get The API Token ", 
 "value": ""}
-}
-
  }, "buildpacks": [ { "url": "heroku/python" } ]}
