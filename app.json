@@ -12,6 +12,7 @@
  "value": "" 
 },
  "API_KEY": 
-{ "description": "Get The API Token ", 
+{ "description": "Get The API Token From Here 
+https://developers.themoviedb.org/3/getting-started/introduction ", 
 "value": ""}
  }, "buildpacks": [ { "url": "heroku/python" } ]}
