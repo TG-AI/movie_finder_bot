@@ -12,7 +12,7 @@ A simple bot to search movies with help of TMDB.
 <i>$ cd movie_finder_bot</i> <br>
 <i>$ pip install -r requirements.txt</b><br>
 
-<h4>Variables (Needed For Working)</b><br>
+<h4>Variables (Needed For Working)</b><br><br>
 <b>BOT_TOKEN:</b><br>
   <i>Get This Value From <a href="https:/telegram.dog/Botfather">Bot Father</a></i><br><br>
 <b>API_KEY:</b><br>
