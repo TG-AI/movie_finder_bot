@@ -13,10 +13,10 @@ class TMDB:
 
         # All using URLs
         self._url_base = "https://api.themoviedb.org/3/"
-        self._url_all_genres = self._url_base + "genre/movie/list" + self._tmdb_api_key + "&language=ru-RU"
-        self._url_search_movies = self._url_base + "discover/movie" + self._tmdb_api_key + "&language=ru-RU"
+        self._url_all_genres = self._url_base + "genre/movie/list" + self._tmdb_api_key + "&language=en-EN"
+        self._url_search_movies = self._url_base + "discover/movie" + self._tmdb_api_key + "&language=en-EN"
         self._url_movie_by_id = self._url_base + "movie/"
-        self._url_similar_keywords = self._url_base + "search/keyword" + self._tmdb_api_key + "&language=ru-RU"
+        self._url_similar_keywords = self._url_base + "search/keyword" + self._tmdb_api_key + "&language=en-EN"
 
     def get_all_genres(self):
         # Return all movie genres in TMDB,
@@ -39,7 +39,7 @@ class TMDB:
     def get_movie(self, movie_id):
         # Gets id of movie and return
         # description of this movie in dictionary
-        full_url_movie_by_id = self._url_movie_by_id + str(movie_id) + self._tmdb_api_key + "&language=ru-RU"
+        full_url_movie_by_id = self._url_movie_by_id + str(movie_id) + self._tmdb_api_key + "&language=en-EN"
         response = requests.get(full_url_movie_by_id)
         response = response.json()
         tmp = ""
